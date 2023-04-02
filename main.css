@@ -1,0 +1,12 @@
+#aga { 
+
+ animation-name: the;
+ animation-duration: 5s;
+ animation-iteration-count: infinite;
+ background: radial-gradient(yellowgreen, lightseagreen, lightgreen);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+ font-size: 3em;
+ text-align:center;
+ font-family: "Montserrat" , Lato, sans;
+}
